@@ -1,0 +1,88 @@
+
+.yellow{
+    background-color: #ffd43a;
+    padding-left: 3%;
+    padding-top: .5%;
+    padding-bottom: 1%;
+    color: #ffffff;
+    margin-top: 10%;
+}
+    
+.opacity{   
+    opacity: 0.5%;
+    padding-left: 3%;
+    padding-top: .5%;
+    padding-bottom: 1%;
+    color: #ffffff;
+    margin-top: 10%;
+
+}
+.taxi{
+    background-image: url("../assets/images/taxi.jpg");
+    background-size: 100%;
+    
+}
+.fund-color{
+    background-color: #ffd43a;
+    border: #ffffff 1px solid;
+    padding-top: 8%;
+    padding-bottom: 4%;
+}
+.text{
+    width: 25%;
+    color: #ffffff;
+}
+.img{
+    margin-left: 5%;
+}
+.border{
+    border: #ffffff 1px solid;
+}
+.conduce{
+    background-image: url("../assets/images/conduce.jpg");
+    background-size: 100%;
+}
+.tarifas{
+    color:white;
+    margin-left: 20%;
+    width: 50%;
+}
+.found-black{
+    background-color: #000000;
+    color: #ffffff;
+    width: 100%;
+}
+.logo-blanco{
+    margin-top: 5%;
+    margin-left: 5%;
+    border-bottom: #ffffff 1px solid;
+}
+ul{
+    list-style-type: none;
+}
+.white{
+    color: #ffffff;
+    margin-left: 10%;
+}
+.blue{
+    background-color: #6ad7ed;
+}
+.user{
+    width: 30%;
+    height: 30%;
+    margin-left: 35%;
+}
+.found-white{
+    background-color: #ffffff;
+}
+.large{
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 5%;
+}
+.center{
+    margin-left: 35%;
+}
+.gray{
+    background-color: #c9c7c7;
+}
